@@ -6,7 +6,7 @@
 </div>
 <!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=2EE3FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
  ## 👤 **About Me**
