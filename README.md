@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
   
-### 🚀 Learning, Building & Growing Every Day
+### 🚀 Learning, Building & Growing Every Day 
 
   
   <img src="https://komarev.com/ghpvc/?username=shishir420-git&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
